@@ -1,0 +1,6 @@
+node_modules/
+config/wx.config.js
+Makefile
+.DS_Store
+.env
+.idea
